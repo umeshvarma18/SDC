@@ -37,3 +37,5 @@ The Bootstrap framework is included via CDN in the <head> section of paybycredit
 
 License
 This project is open-source and available under the MIT License.
+![Image](https://github.com/user-attachments/assets/bb903de2-c835-4246-a810-3c631e3a67c6)
+![Image](https://github.com/user-attachments/assets/894c79dd-d445-45f1-8cc2-07eee95e4270)
