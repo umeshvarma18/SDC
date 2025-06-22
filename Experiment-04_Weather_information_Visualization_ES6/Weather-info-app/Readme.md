@@ -49,3 +49,5 @@ Author
 •tarunteja
 •GitHub: Your GitHub Profile
 Feel free to contribute or suggest improvements!
+![Image](https://github.com/user-attachments/assets/72b35c3e-a3aa-4510-9be0-fa1d8af0f795)
+![Image](https://github.com/user-attachments/assets/2ad51abe-4feb-49db-883f-a8f3d5250a88)
