@@ -53,7 +53,10 @@ LICENSE
 This project is open-source and available under the MIT License
 
 Author
-•tarunteja
+•umesh varma
+
+![image](https://github.com/user-attachments/assets/3b2b61d4-b3fe-448d-ac6c-83ddcb626770)
+
 
 Contributing
 Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
