@@ -71,4 +71,9 @@ License
 This project is open-source and available under the MIT License
 
 Author
-•tarunteja
+•umesh varma
+![Image](https://github.com/user-attachments/assets/70f1bc1b-2898-4edd-b586-7684a6000ba8)
+![Image](https://github.com/user-attachments/assets/28580182-bb96-4e95-aa3c-d98f59db7330)
+![Image](https://github.com/user-attachments/assets/c93347d3-c21c-44e8-818a-5c2e2c2349ab)
+![Image](https://github.com/user-attachments/assets/7f974607-0528-448d-aa64-a68272a16ea9)
+![Image](https://github.com/user-attachments/assets/40848884-5c9f-4086-9593-d032a6caf7fd)
