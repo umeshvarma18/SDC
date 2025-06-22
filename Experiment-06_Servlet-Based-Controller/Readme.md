@@ -68,5 +68,7 @@ Contributing
 Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
 
 Author
-•tarunteja
+•umesh varma
+![Image](https://github.com/user-attachments/assets/3e8f0b0b-cf50-4b95-83e6-a9d4c351e4f6)
+![Image](https://github.com/user-attachments/assets/ef5d6485-6320-44bf-aa67-d775d72f160c)
 
