@@ -100,4 +100,7 @@ License
 This project is open-source and available under the MIT License
 
 Author
-•tarunteja
+•umesh
+![Image](https://github.com/user-attachments/assets/eac62d16-bcb7-406f-879c-9660e0aecaae)
+![Image](https://github.com/user-attachments/assets/b32b4228-40b8-4cbc-a93f-170427b34b17)
+
