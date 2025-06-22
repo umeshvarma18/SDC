@@ -74,4 +74,5 @@ License
 This project is open-source and available under the MIT License
 
 Author
-•tarunteja
+•umesh
+- ![Image](https://github.com/user-attachments/assets/829ae96b-becf-433c-ae8c-6e4623e61f70)
