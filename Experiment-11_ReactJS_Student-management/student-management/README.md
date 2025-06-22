@@ -64,7 +64,11 @@ LICENSE
 This project is open-source and available under the MIT License
 
 Author
-•tarunteja
+•umesh
 
 Contributing
 Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
+![Image](https://github.com/user-attachments/assets/1d2914b8-bbd3-4030-9ae6-3f0b214ccc5e)
+![Image](https://github.com/user-attachments/assets/910cecf5-bc4f-4b50-b407-de4dcc2b2097)
+![Image](https://github.com/user-attachments/assets/81783078-fa2b-4390-8a6d-3ba9bff0d69d)
+![Image](https://github.com/user-attachments/assets/29b5986c-5290-4b45-90fe-29670a3b8373)
