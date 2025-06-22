@@ -71,7 +71,13 @@ LICENSE
 This project is open-source and available under the MIT License.
 
 Contributing
-Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
+Feel free to fo
+rk this repository and suggest improvements via pull requests. All contributions are welcome!
 
 Author
-•tarunteja
+•umesh varma
+![Image](https://github.com/user-attachments/assets/e7ee8b92-6c2a-4e7c-899d-e6e08edd8939)
+![Image](https://github.com/user-attachments/assets/79a68cd3-44c3-496d-85ef-fd311a601f1f)
+![Image](https://github.com/user-attachments/assets/4baeecf2-3028-4841-8118-ad10f7898c88)
+![Image](https://github.com/user-attachments/assets/637ad19d-0b58-45fd-aec8-7a7d37657e9d)
+
